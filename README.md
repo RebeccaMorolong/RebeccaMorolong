@@ -1,9 +1,10 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @RebeccaMorolong<br>    👀 I’m passionate about Data Science, Statistics, and AI, and keen to explore their applications.<br>    🌱 I’m currently learning Python, SQL, Data Science, and Business Management to enhance my skills in data-driven decision-making.<br>    💞️ I want to collaborate on Data Analysis, Statistical Analysis, and Machine Learning Projects. Feel free to reach out if you have a project in mind!<br>    📫 How to reach me via Gmail maleshanemorolong@gmail.com or connect with me on LiNKEDIN https://www.linkedin.com/in/rebecca-morolong-b95451262<br>    😄 Pronouns: Her/She<br>    ⚡ Fun fact: I have an insatiable curiosity and love learning new things—I often find myself wanting to learn everything at once!<br><br>
+<br>    👋 Hi, I’m @RebeccaMorolong<br>    👀 I’m passionate about Data Science, Statistics, and AI, and keen to explore their applications.<br>    🌱 I’m currently learning Python, SQL, Data Science, and Business Management to enhance my skills in data-driven decision-making.<br>    💞️ I want to collaborate on Data Analysis, Statistical Analysis, and Machine Learning Projects. Feel free to reach out if you have a project in mind!<br>    📫 How to reach me via Gmail maleshanemorolong@gmail.com or connect with me on LinkedIN https://www.linkedin.com/in/rebecca-morolong-b95451262<br>    😄 Pronouns: Her/She<br>    ⚡ Fun fact: I have an insatiable curiosity and love learning new things—I often find myself wanting to learn everything at once!<br><br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rebecca Morolong)
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maleshanemorolong@gmail.com) 
 
 # 💻 Tech Stack:
