@@ -1,12 +1,50 @@
-# 💫 About Me
+#  About Me
 
-👋 Hi, I’m **@RebeccaMorolong**  
-👀 I’m passionate about **Data Science, Statistics, and AI**, and love exploring their real-world applications.  
-🌱 I’m currently learning **Python, SQL, Data Science**, and **Business Management** to sharpen my data-driven decision-making skills.  
-💞️ I love collaborating on projects in **Data Analysis**, **Statistical Modeling**, and **Machine Learning**.  
-📫 Reach me via [Email](mailto:maleshanemorolong@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rebecca-morolong-b95451262).  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I have an insatiable curiosity—I often find myself wanting to learn everything at once!
+I’m a Data Scientist and Statistical Analyst with a passion for transforming business challenges into impactful, data-driven solutions. My work spans the full data science lifecycle—from exploratory data analysis and statistical modeling to machine learning, deployment, and performance monitoring.
+
+---
+
+##  Tech Stack
+
+**Languages & Tools:**  
+`Python` | `SQL` | `Scikit-learn` | `XGBoost` | `mfFlow` | `FastAPI` | `PostgreSQL` | `Power BI` | `Canva`
+
+**Libraries & Frameworks:**  
+`NumPy` | `Pandas` | `Matplotlib` | `Plotly` | `SciPy` | `scikit-learn` | `XGBoost` | `MLflow`
+
+**Version Control & Platforms:**  
+`Git` | `GitHub` | *(Cloud integrations under development)*
+
+---
+
+##  Featured Projects
+
+- **MTN Customer Churn Prediction**  
+  Predicts customer attrition for a major telecom company using XGBoost and Logistic Regression. Includes feature importance analysis and deployment-ready pipelines.
+
+- **Customer Lifetime Value (CLV) Analysis**  
+  Conducts RFM segmentation to identify high-value customer segments and revenue growth opportunities.
+
+- **A/B Test Analysis (SQL)**  
+  Evaluates feature changes or marketing impacts using SQL to analyze user behavior and conversion metrics.
+
+- **Stock Prediction (Time Series Modeling)**  
+  Applies regression methods and visualization techniques to financial data for forecasting trends.
+
+- **Customer Acquisition Analysis**  
+  Identifies the most cost-effective and revenue-generating marketing channels using analytical modeling.
+
+- **Demand Forecast Analysis**  
+  Builds demand forecasting models to support inventory and supply chain planning.
+
+---
+
+##  Let’s Connect
+
+I’m eager to connect with professionals, collaborate on meaningful data projects, and explore opportunities in AI, ML, and analytics.
+
+- **LinkedIn:** [Rebecca Morolong](https://www.linkedin.com/in/rebecca-morolong-b95451262)  
+- **Pronouns:** She/Her
 
 ---
 
@@ -15,18 +53,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rebecca-morolong-b95451262)
 - 📧 [Email](mailto:maleshanemorolong@gmail.com)
 
----
-
-## 💻 Tech Stack
-
-**Languages & Tools:**  
-`Python` | `SQL` | `Anaconda` | `FastAPI` | `PostgreSQL` | `Power BI` | `Canva`
-
-**Libraries & Frameworks:**  
-`NumPy` | `Pandas` | `Matplotlib` | `Plotly` | `Scikit-learn` | `SciPy` | `mlflow`
-
-**Version Control & Platforms:**  
-`Git` | `GitHub`
 
 ---
 
@@ -38,14 +64,3 @@
 
 ---
 
-## 🧠 Featured Projects
-
-- [📊 MTN Customer Churn Prediction](https://github.com/RebeccaMorolong/MTN-Customer-Churn-Prdiction)  
-  Binary classification project to identify churn drivers and predict customer attrition using XGBoost and Logistic Regression.
-
-- [💸 Customer Lifetime Value (CLV) Analysis](https://github.com/RebeccaMorolong/Customer-Lifetime-Value-CLV-Analysis)  
-  Segmentation + RFM analysis for identifying high-value customers and business growth opportunities.
-
----
-
-Let's connect, collaborate, and build impactful data-driven solutions together!
