@@ -10,7 +10,7 @@ I’m a Data Scientist and Statistical Analyst with a passion for transforming b
 `Python` | `SQL` | `Scikit-learn` | `XGBoost` | `mfFlow` | `FastAPI` | `PostgreSQL` | `Power BI` | `Canva`
 
 **Libraries & Frameworks:**  
-`NumPy` | `Pandas` | `Matplotlib` | `Plotly` | `SciPy` | `scikit-learn` | `XGBoost` | `MLflow`
+`NumPy` | `Pandas` | `Matplotlib` | `Plotly` | `SciPy` | `scikit-learn` | `XGBoost` | `MLflow`| `Tensorflow`|`Keras`|
 
 **Version Control & Platforms:**  
 `Git` | `GitHub` | *(Cloud integrations under development)*
